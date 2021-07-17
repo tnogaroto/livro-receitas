@@ -6,3 +6,4 @@ Olá! Bem vindo ao livro de receitas :wave:
 
 - Stronogoff de Frango
 - Pavê
+- Bolo de Cenoura
